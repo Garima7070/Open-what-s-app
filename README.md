@@ -14,7 +14,7 @@ This project was built using the following technologies:
 
 To run this project on your local machine, follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/your-repository.git`.
+1. Clone this repository to your local machine using `git clone https://github.com/Garima7070/Open-what-s-app.git`.
 2. Open the `index.html` file in your web browser.
 3. Enter a 10-digit mobile number and click the "Chat on WhatsApp" button.
 4. You will be redirected to WhatsApp, where you can chat with the mobile number you entered.
